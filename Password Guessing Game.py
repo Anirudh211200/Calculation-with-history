@@ -1,3 +1,10 @@
+Password-guessing-game
+Console-based password guessing game in Python
+
+
+
+
+
 import random
 
 easy_word = ["Apple", "train", "tiger", "money", "india"]
